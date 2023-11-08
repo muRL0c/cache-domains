@@ -113,6 +113,11 @@
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
+			"name": "lesta",
+			"description": "CDN for lesta.ru",
+			"domain_files": ["lesta.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
