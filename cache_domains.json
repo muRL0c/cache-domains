@@ -123,6 +123,11 @@
 			"domain_files": ["mailgames.txt"]
 		},
 		{
+			"name": "genshin",
+			"description": "CDN for genshin",
+			"domain_files": ["genshin.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
