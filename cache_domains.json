@@ -118,6 +118,11 @@
 			"domain_files": ["lesta.txt"]
 		},
 		{
+			"name": "mailgames",
+			"description": "CDN for mailgames",
+			"domain_files": ["mailgames.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
